@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a physical oceanogrpahy graduate student in the UW School of Oceanography working with Kyle Armour. My research focus is the role of the general ocean circulation in climate. I use idealized climate models to study the fundamental drivers of ocean circulation and the impact of increasing greenhouse gases on ocean and atmospheric circulation. 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
