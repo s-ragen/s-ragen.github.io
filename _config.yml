@@ -32,6 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+scholar:
+  style: mla
+  bibliography: refs.bib
+  replace_strings: true
+  query: "@*"  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
