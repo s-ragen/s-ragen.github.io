@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+header_pages:
+  - publications.md
+  - blog.md
 title: Sarah Ragen
 email: sragen@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -31,12 +34,6 @@ github_username:  s-ragen
 theme: minima
 plugins:
   - jekyll-feed
-
-scholar:
-  style: mla
-  bibliography: refs.bib
-  replace_strings: true
-  query: "@*"  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
