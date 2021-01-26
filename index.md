@@ -12,4 +12,4 @@ I graduated from Johns Hopkins with Bachelor's degrees in Earth & Planetary Scie
 
 I grew up in Seattle, WA though I travelled to visit family in China almost every summer. 
 
-In my free time, you are likely to find me trail running, skiing, biking around to different breweries, jumping in the lake, or eating copious amounts of ice cream.
+In my free time, you are likely to find me moseying in the mountains, biking around to different breweries, jumping in the lake, or eating copious amounts of ice cream.
