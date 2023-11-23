@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "On one of the only instances in which I don’t want something that is 'free'"
+date:   2023-11-23 11:18
+categories: free trade
+---
+
+Several months ago, if you had asked me what free trade is and whether I supported its expansion or not, I would have been hard pressed to give you an answer. Free trade sounds like it could be a good thing, right? I mean, I’m a grad student. I love free things! 
+
+Like a good grad student, however, I did a bit of research. In reading more about multilateral trade agreements, I learned that free trade is not as free as advertised. Hopefully, by the end of this post, I will have convinced you of that. I also want to encourage you to look into [Pacific Northwest People Over Profit][pnw-pop] and the [No 2 APEC Coalition][no2apec] to stay abreast of all the ways to act in solidarity with people protesting rigged trade deals all around the world. In particular, join a contingent that is mobilizing down to San Francisco for a solidarity summit and to protest corporate agendas.
+
+Free trade refers to formal agreements between countries that reduce regulations and barriers to imports and exports. Thus, in a “free market economy,” corporations are subject to fewer restrictions to trade and manufacturing, giving capitalists free reign to increase profits at the expense of people and the environment. Only the wealthy executives reap direct benefits. 
+
+Trade agreements allow corporations to protect their ‘investments,’ including green-lighting hazardous [mining projects][ips-mining], fossil fuel extraction, and infrastructure developments that lead to environmental destruction. For example, when the US rejected permits for the Keystone XL Pipeline, [TC Energy filed a lawsuit][reuters-tc] for $15B of our tax dollars under NAFTA, a big free trade agreement between the US, Canada, and Mexico, claiming a loss in potential profits. That kind of litigation is allowed under the provisions of many multinational trade deals and, not to bum you out, corporations usually win. For instance, when Mexico tried to institute a tax on beverages containing high fructose corn syrup, Cargill, a US based corporation, [sued the state of Mexico under NAFTA][cargill-nafta], winning $77.3 million. To pay this settlement, the residents of Mexico were saddled with tax hikes. 
+
+Free trade agreements often involve predatory lending practices by institutions like the International Monetary Fund and the World Bank, which require development to move nations in the global South towards export-oriented and import-dependent economies. This creates a global economy that benefits corporations based in the global North. This has many alarming and detrimental impacts on people around the world. Structural Adjustment Programs – these loans with strings attached – [adversely impact maternal and child health][pubhealth-saps] in the debtor nation.
+
+One venue for the negotiation and adoption of multilateral trade policies is the Asia Pacific Economic Cooperation [(APEC)][apec] Forum. This is a group of 21 different member economies that meet to discuss matters of international monopoly capital. APEC focuses on removing barriers to trade, many of which are labor and environmental protections; reducing trading costs to facilitate business across borders; and providing loans with strings attached to developing nations, which acts to expand markets that will later be absorbed by monopoly corporations. 
+
+The main aim of this year’s APEC negotiations is crafting the Indo-Pacific Economic Framework for Prosperity [(IPEF)][ipef]. IPEF involves 14 nations that make up 40% of global GDP and are home to over 3 billion people. There are 4 main pillars of IPEF: trade, supply chains, clean energy & infrastructure, and tax & anti-corruption. Each country involved can pick and choose which pillars to adopt, meaning a nation can opt into the trade pillar while declining any agreements in the clean energy or anti-corruption pillars. 
+
+The fact that one of IPEF’s contains an anti-corruption pillar is ironic, considering this trade agreement is one big instance of corporate-government collusion. These negotiations are attended by appointed ministers and APEC’s corporate sponsors. 3 pillars of IPEF are being negotiated by the Department of Commerce. Commerce Secretary Gina Raimondo is famously pro Big Tech; members of her cabinet include a former Google lobbyist and a former member of Amazon's public-policy team. Moreover, within the Department of Commerce, [18% of appointments are registered lobbyists][commerce-lobby] either before or after government service. Corporate trade advisors get more access to these negotiations than the US government does. 
+
+Congress does not get to vote on IPEF. The US has even made participating countries sign a secrecy pact, so we don't even know what the content of this agreement is. Delegates from corporations that are part of the National Center for APEC, however, do get a seat at the negotiating table. These corporations include some heavy hitters: Amazon, Microsoft, Chase, Chevron, Apple, Boeing, and Google, just to name a few. Are we really going to sit back and allow these anti-labor corporations craft international economic agreements?
+
+It's time to start putting people over profit! Stand in solidarity with workers, migrants, and other regular people around the world to oppose the way economic, multinational policy is written behind closed doors. The best way to get involved is to join the [Pacific Northwest People Over Profit][pnw-pop] and [No 2 APEC Coalitions][no2apec], who are organizing and helping fund activists to travel to San Francisco and tell these trade ministers that we won’t sit back and allow them to undermine workers’ protections and environmental regulations. You can also follow along and find ways to help out through the [International League of People’s Struggles][ilps].
+
+Those of us who are union members have a vested interest in opposing large, undemocratic free trade frameworks, like IPEF. Trade agreements are not good for jobs. The deregulation pushed for by [free trade agreements leads to job losses domestically][epi-ft]. As shown in the figure below, the adoption of NAFTA resulted in job losses in every single state. 
+
+![Job losses under NAFTA](../assets/images/nafta-job-loss.gif)
+
+Displaced workers are forced to take jobs that may have lower wages, which depresses wages even more as certain industries less directly impacted by trade experience an influx of workers. Trade deals also make it possible for corporations to threaten and execute a shift of operations to a different country, undercutting workers’ bargaining power. In 1992, a Wall Street Journal survey reported that a quarter of about 500 American corporate executives admitted that they were likely to use NAFTA as a bargaining chip to keep from giving workers raises. 
+
+My union, [UAW local 4121][uaw], represents academics, researchers, and students. As such, we should be appalled at the fact that APEC has outlined a [comprehensive education plan][apec-edu]. This plan aims to standardize and modernize education in member economies with an eye toward acceleration innovation and increasing employability. While improving access to education is certainly appealing, leaving the objectives of the education system in the hands of the corporate elite instead of with the students and educators is not the solution. In fact, it is rather dystopian to leave education up to the corporations who [lobby our government][amazon-lobby], pull the strings of multilateral trade deals, [wreak havoc on the environment][amazon-carbon], and [manufacture weapons for profit][boeing-defense].
+
+Trade agreements lead to a dehumanization of people and a humanizing of corporations. These trade deals protect corporations as they make land grabs, degrade the environment, and exploit workers. APEC and IPEF highlight the utter lack of democratic processes in global governance. Democracy isn’t going to be given to us by those with a seat at the table. We, as regular people, must show up, show our power, and exercise our rights. 
+
+
+[pnw-pop]: https://www.pnw-pop.com/
+[no2apec]: https://linktr.ee/no2apec i
+[ips-mining]: https://ips-dc.org/ips-brief-mining-companies-use-trade-agreements-to-attack-indigenous-rights-in-colombia-and-beyond/
+[reuters-tc]: https://www.reuters.com/legal/litigation/tc-energy-seeks-nafta-damages-over-canceled-keystone-xl-project-2021-11-23/
+[cargill-nafta]: https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/204/cargill-v-mexico
+[pubhealth-saps]: https://publichealthreviews.biomedcentral.com/articles/10.1186/s40985-017-0059-2
+[apec]: https://www.apec.org/
+[ipef]: https://www.commerce.gov/ipef
+[commerce-lobby]: https://prospect.org/power/big-techs-back-door-to-digital-trade-rules-commerce-gina-raimondo/
+[ncapec]: https://ncapec.org/members/
+[ilps]: https://www.instagram.com/ilps.seattle.tacoma/?hl=en
+[epi-ft]: https://www.epi.org/publication/briefingpapers_bp147/
+[uaw]: https://www.uaw4121.org/
+[apec-edu]: https://www.apec.org/ednet/initiatives#:~:text=APEC%20Education%20Strategy%20is%20the,in%20economic%20growth%20and%20integration.
+[amazon-lobby]: https://www.opensecrets.org/orgs/amazon-com/summary?id=D000023883
+[amazon-carbon]: https://revealnews.org/article/private-report-shows-how-amazon-drastically-undercounts-its-carbon-footprint/
+[boeing-defense]: https://www.statista.com/statistics/268999/sales-in-defense-of-boeing/
