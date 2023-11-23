@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-This site is a work in progress!
+This is a spot for my musings. Sometimes these posts are related to my research (papers I've written on climate science can be found [here](/publications.md), but most of the time they are not. I'd love to hear your thoughts - feel free to reach out via email (address at the bottom of the page).
