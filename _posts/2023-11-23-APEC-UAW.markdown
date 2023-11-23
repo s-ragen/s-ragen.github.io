@@ -27,7 +27,7 @@ It's time to start putting people over profit! Stand in solidarity with workers,
 
 Those of us who are union members have a vested interest in opposing large, undemocratic free trade frameworks, like IPEF. Trade agreements are not good for jobs. The deregulation pushed for by [free trade agreements leads to job losses domestically][epi-ft]. As shown in the figure below, the adoption of NAFTA resulted in job losses in every single state. 
 
-![Job losses under NAFTA](../assets/images/nafta-job-loss.gif)
+![Job losses under NAFTA](/assets/images/nafta-job-loss.gif)
 
 Displaced workers are forced to take jobs that may have lower wages, which depresses wages even more as certain industries less directly impacted by trade experience an influx of workers. Trade deals also make it possible for corporations to threaten and execute a shift of operations to a different country, undercutting workers’ bargaining power. In 1992, a Wall Street Journal survey reported that a quarter of about 500 American corporate executives admitted that they were likely to use NAFTA as a bargaining chip to keep from giving workers raises. 
 
