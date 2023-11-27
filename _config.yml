@@ -22,7 +22,7 @@ header_pages:
   - publications.md
   - blog.md
 title: Zho Ragen
-email: sragen@uw.edu
+email: ragen.zho@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     I'm a PhD student at the University of Washington studying physical oceanography through climate modeling.
 baseurl: "" # the subpath of your site, e.g. /blog

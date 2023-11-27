@@ -12,4 +12,4 @@ I graduated from Johns Hopkins with Bachelor's degrees in Earth & Planetary Scie
 
 I grew up in Seattle, WA though I travelled to visit family in China almost every summer. 
 
-In my free time, you are likely to find me moseying in the mountains, biking around to different breweries, jumping in the lake, or eating copious amounts of ice cream.
+In my free time, you are likely to find me organizing against imperialism for a just and lasting peace. This is how I am fighting for climate justice and liberation from oppression. To learn more, check out [Resist US-Led War Seattle](https://www.instagram.com/resist.seattle/) and this [blog post](/_posts/2023-11-23-APEC-UAW.markdown) I wrote about free trade agreements.
