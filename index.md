@@ -2,6 +2,8 @@
 layout: home
 title: About
 ---
+![Hello! I'm Zho :)](/assets/photo.png)
+
 I am a physical oceanography graduate student in the UW School of Oceanography working with Professor Kyle Armour. My research focus is the role of the general ocean circulation in climate. I use idealized climate models to study the fundamental drivers of ocean circulation and the impact of increasing greenhouse gases on ocean and atmospheric circulation. If you're interested, take a look at my [Publications](/publications.md) to see papers about the projects I've worked on. 
 
 While at UW, I have been an active member of the [Program on Climate Change](https://pcc.uw.edu/), serving on the Board and on the Graduate Steering Committee. I helped organize several [Climate Science on Tap](http://cascadiaclimateaction.org/on-tap/) events with Cascadia Climate Action and other Program on Climate Change graduate students. I also co-chaired the organizing committee of the 2020 [Graduate Climate Conference](http://graduateclimateconference.com/).   
