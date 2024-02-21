@@ -1,8 +1,10 @@
+<img src="/assets/photo.png" width="200" height="200" />
+
 ---
 layout: home
 title: About
 ---
-<img src="/assets/photo.png" width="200" height="200" />
+Hi! I'm Zho :) 
 
 I am a physical oceanography graduate student in the UW School of Oceanography working with Professor Kyle Armour. My research focus is the role of the general ocean circulation in climate. I use idealized climate models to study the fundamental drivers of ocean circulation and the impact of increasing greenhouse gases on ocean and atmospheric circulation. If you're interested, take a look at my [Publications](/publications.md) to see papers about the projects I've worked on. 
 
