@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
-Laguë, M. M., Quetin, G. R., **Ragen, S.**, & Boos, W. R. (2023). Continental configuration controls the base-state water vapor greenhouse effect: lessons from half-land, half-water planets. In Press at Climate Dynamics. [Link](https://eartharxiv.org/repository/view/5196/). [PDF](/bibliography/Halfland.pdf)
+Laguë, M. M., Quetin, G. R., **Ragen, S.**, & Boos, W. R. (2023). Continental configuration controls the base-state water vapor greenhouse effect: lessons from half-land, half-water planets. Climate Dynamics. [Link](https://eartharxiv.org/repository/view/5196/). [PDF](/bibliography/Halfland.pdf)
 
 Fajber, R., Donohoe, A., **Ragen, S.**, Armour, K. C., & Kushner, P. J. (2023). Atmospheric heat transport is governed by meridional gradients in surface evaporation in modern-day earth-like climates. PNAS, 120(25). [Link](https://www.pnas.org/doi/10.1073/pnas.2217202120). [PDF](/bibliography/Evap_HT.pdf)
 
