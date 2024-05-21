@@ -11,7 +11,8 @@ Almost anything small enough (less that or equal to ~0.2 microns in diameter) ca
 
 Right now the Palestinian people are fighting for their liberation. They are fighting for their right to live in their homes, to tend to the land, to swim in the sea, to collect rain water. Yes, Palestinians don’t even have the right to collect rain water - it’s been taken from them by the occupation. They are fighting for their rights to raise their children, to watch their parents grow old, to live with dignity. Each act of existence is an act of resistance. Each act is a condensation nucleus for community, for care, for freedom.
 
-![Me and the girls talking about Revolution](/assets/images/revolution.png)
+
+![Me and the girls talking about Revolution](/assets/images/revolution.gif)
 
 Almost anything small can act as a condensation nucleus which might form a cloud bank that alters the earth system’s energy balance. Similarly, a resistance movement in one particular place can act as a nucleus for communities of resistance around the world that can change the balance of power between oppressor and oppressed. Maybe it seems like your own particular act of resistance against a system that is profoundly unjust is too small to make a difference. But maybe your act can be a nucleus onto which other people, other organizations, other communities can coalesce. Maybe together we can form a cloud that casts a shadow over imperialism.
 
