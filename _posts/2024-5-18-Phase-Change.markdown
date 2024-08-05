@@ -5,6 +5,7 @@ date:   2024-05-18 4:20
 categories: Palestine
 ---
 ![Me and the girls talking Revolution](/assets/images/revolution.gif)
+*Me and the girls talking Revolution*
 
 Water vapor in the air requires a surface on which to condense - to change phase from a gas into liquid. For clouds to form, little aerosol particles act as condensation nuclei for water in the atmosphere. Without a nucleus, water vapor can get colder than -10°C. This is remarkable, considering water normally freezes at 0°C.
 
