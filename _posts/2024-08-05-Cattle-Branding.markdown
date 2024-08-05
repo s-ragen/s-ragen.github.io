@@ -36,7 +36,7 @@ I don’t mean to romanticize this way of life too much, though I do find its st
 After the branding, while we were eating a delicious meal that Sofia’s friend Ian spent all morning preparing, one of the cowboys made an off-color joke invoking George Floyd’s final words. It was one of the boy’s 19th birthdays and to commemorate, he was getting the customary lashes from another cowboy’s handmade chaps. The boy had fallen out of his chair and was wheezing a bit. “I can’t breathe!” came from a member of the audience, followed by loud bellowing laughter. I looked around, and made knowing eye contact with my friend Hope, but didn’t notice too much reaction otherwise.
 
 ![Lunch](/assets/images/lunch.JPG)
-*Lunch ft. the best baked beans I’ve ever tasted, sweet sharings from Sofia and her friend, a shepherdess, as well as a jarring little bit of casual racism from one of the cowboys.*
+*Lunch by Ian ft. the best baked beans I’ve ever tasted, sweet sharings from Sofia and her friend, a shepherdess, as well as a jarring little bit of casual racism from one of the cowboys.*
 
 Everything is full of contradictions, everything is a process. How did Sofia get here - architect, rancher, mother, matriarch? How will each of us get where we are going? Out here, the divide between urban and rural in America is so visible; the disharmonies between the two will drive us all forward in some way.
 
