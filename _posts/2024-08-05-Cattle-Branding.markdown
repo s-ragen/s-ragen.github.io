@@ -2,14 +2,14 @@
 layout: post
 title:  "Musings from the Cattle Branding"
 date:   2024-08-05 11:30 
-categories: Climate, Politics, Land Use, Urban-Rural Divide
+categories: Climate 
 ---
 Sofia stopped the dispersed chatter and called us all to her. We gathered around the fire, where beans and meat in cast iron saucepans bubbled under the dry afternoon sun. She thanked everyone for being there that day, for contributing. She called our ancestors into our space. She told us that it is a duty for each of us to live in a way that uses our gifts. We all stood quiet as she spoke; she is the matriarch. Tears welled up in her eyes as she called to our ancestors in the sky. 
 
 It's April and we have all come to Sofia’s ranch for a cattle branding. The calves are driven into the pen with a few of the cows, who are there to help keep them a bit calmer. I was nervous to come, and my friend Hope was a bit nervous to invite me and our other two friends who were visiting her in New Mexico. This was the first cattle branding that we, the visitors, had attended.  
 
 ![Fire Cow](/assets/images/fire_shots.JPG)
-*A calf being held down as it receives two vaccines. In the foreground, the brands are heating up in the fire*
+*A calf being held down as it receives two vaccines. In the foreground, the brands are heating up in the fire.*
 
 One by one, cowboys rope a calf from the crowd and drag it towards the fire, where the brands glow orange. Someone holds the calf’s front legs, someone else the back. Two shots are administered, vaccines to stave off respiratory infection and other common sicknesses. Someone takes the brands from the fire and holds them to the calf’s side, burning a heart-shaped mark into its flank. The calf cries as smoke rises from its side.
 
