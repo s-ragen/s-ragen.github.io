@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Musings from the Cattle Branding"
-date:   2024-08-05 11:30 
+date:   2024-08-05 12:00 
 categories: Climate 
 ---
 Sofia stopped the dispersed chatter and called us all to her. We gathered around the fire, where beans and meat in cast iron saucepans bubbled under the dry afternoon sun. She thanked everyone for being there that day, for contributing. She called our ancestors into our space. She told us that it is a duty for each of us to live in a way that uses our gifts. We all stood quiet as she spoke; she is the matriarch. Tears welled up in her eyes as she called to our ancestors in the sky. 
