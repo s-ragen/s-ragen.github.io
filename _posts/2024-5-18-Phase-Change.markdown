@@ -7,7 +7,7 @@ categories: Palestine
 ![Me and the girls talking Revolution](/assets/images/revolution.gif)
 *Me and the girls talking Revolution*
 
-Water vapor in the air requires a surface on which to condense - to change phase from a gas into liquid. For clouds to form, little aerosol particles act as condensation nuclei for water in the atmosphere. Without a nucleus, water vapor can get colder than -10°C. This is remarkable, considering water normally freezes at 0°C.
+Water vapor in the air requires a surface on which to condense - to change phase from a gas into liquid. For clouds to form, little aerosol particles act as condensation nuclei for water in the atmosphere. Without a nucleus, water vapor can get colder than -10°C. This is remarkable, considering water normally freezes at 0°C. Maybe it also tells us that we human beings are not the only things in the world that are resistant to change.
 
 Almost anything small enough (less that or equal to ~0.2 microns in diameter) can act as a nucleus on which a cloud can condense. It could be dust, soot from forest fires or combustion engines, sea salt from ocean spray, volatile organic compounds from phytoplankton or plants, or even bacteria. All this to say, the cloud needs something, anything, to coalesce. This process of cloud formation is an important piece of the water cycle, helping evaporated water turn into rain. Clouds also play a key role in determining how the earth system responds to climate change.
 
