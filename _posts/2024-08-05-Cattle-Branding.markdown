@@ -6,7 +6,7 @@ categories: Climate
 ---
 Sofia stopped the dispersed chatter and called us all to her. We gathered around the fire, where beans and meat in cast iron saucepans bubbled under the dry afternoon sun. She thanked everyone for being there that day, for contributing. She called our ancestors into our space. She told us that it is a duty for each of us to live in a way that uses our gifts. We all stood quiet as she spoke; she is the matriarch. Tears welled up in her eyes as she called to our ancestors in the sky. 
 
-It's April and we have all come to Sofia’s ranch for a cattle branding. The calves are driven into the pen with a few of the cows, who are there to help keep them a bit calmer. I was nervous to come, and my friend Hope was a bit nervous to invite me and our other two friends who were visiting her in New Mexico. This was the first cattle branding that we, the visitors, had attended.  
+It's April and we have all come to Sofia’s ranch for a cattle branding. The calves are driven into the pen with a few of the cows, who are there to help keep them a bit calmer. I was nervous to come, and my friend Hope was a bit nervous to invite me and our other two friends, Sophie and Helaina, who were visiting her in New Mexico. (Sophie took all the photos shared here.) This was the first cattle branding that we, the visitors, had attended.  
 
 ![Fire Cow](/assets/images/fire_shots.JPG)
 *A calf being held down as it receives two vaccines. In the foreground, the brands are heating up in the fire.*
@@ -41,4 +41,3 @@ After the branding, while we were eating a delicious meal that Sofia’s friend 
 Everything is full of contradictions, everything is a process. How did Sofia get here - architect, rancher, mother, matriarch? How will each of us get where we are going? Out here, the divide between urban and rural in America is so visible; the disharmonies between the two will drive us all forward in some way.
 
 Sofia is a trans woman of color. One of her cowboys was just laughing about the lethal effects of systemic racism, the state-sanctioned violence which serves capital’s interests. And everyone on the ranch that day are all in agreement that our leaders are fumbling – losing the plot that says we need to take care of each other, take care for the future, feed baked beans to a crowd that includes an unemployed climate scientist. After all, we are all suffering something. After all, we’re all stumbling towards the future we’re trying to construct. Aren’t we all praying for change, for transformation, even as it terrifies us? And shouldn’t we all be working to make change, too? Perhaps to start, that means learning from the past to figure out how to move forward. 
-
