@@ -6,7 +6,7 @@ categories: Climate
 ---
 Sofia stopped the dispersed chatter and called us all to her. We gathered around the fire, where beans and meat in cast iron saucepans bubbled under the dry afternoon sun. She thanked everyone for being there that day, for contributing. She called our ancestors into our space. She told us that it is a duty for each of us to live in a way that uses our gifts. We all stood quiet as she spoke; she is the matriarch. Tears welled up in her eyes as she called to our ancestors in the sky. 
 
-It's April and we have all come to Sofia’s ranch for a cattle branding. The calves are driven into the pen with a few of the cows, who are there to help keep them a bit calmer. I was nervous to come, and my friend Hope was a bit nervous to invite me and our other two friends, Sophie and Helaina, who were visiting her in New Mexico. (Sophie took all the photos shared here.) This was the first cattle branding that we, the visitors, had attended.  
+It's April and we have all come to Sofia’s ranch for a cattle branding. The calves are driven into the pen with a few of the cows, who are there to help keep them a bit calmer. I was nervous to come, and my friend Hope was a bit nervous to invite me and our other two friends, Sophie and Helaina, who were visiting her and her sister Celeste in New Mexico. (Sophie took all the photos shared here.) This was the first cattle branding that we, the visitors, had attended.  
 
 ![Fire Cow](/assets/images/fire_shots.JPG)
 *A calf being held down as it receives two vaccines. In the foreground, the brands are heating up in the fire.*
