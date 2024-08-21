@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
-[CV](/bibliography/Zho_Ragen_CV.pdf)
+If you're interested, feel free to take a look at my academic [CV](/bibliography/Zho_Ragen_CV.pdf).
 
 Laguë, M. M., Quetin, G. R., **Ragen, S.**, & Boos, W. R. (2023). Continental configuration controls the base-state water vapor greenhouse effect: lessons from half-land, half-water planets. Climate Dynamics. [Link](https://eartharxiv.org/repository/view/5196/). [PDF](/bibliography/Halfland.pdf)
 
