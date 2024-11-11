@@ -21,5 +21,11 @@ Women and children are particularly vulnerable to the impacts of climate change[
 What can we do about the uneven, gendered impacts of climate change? As a first step, we can recognize that the government response of relying on market-driven green innovation and technological solutions falls woefully short and should be classified as anti-people governance. Adaptation and mitigation initiatives must prioritize women’s needs[^5], as they are on the front lines of addressing climate change as well as feeling its impacts. Moreover, climate change is a form of systemic violence with unjust impacts. If colonization is a key cause, we must resoundingly advocate for decolonization as a solution. 
 
 
-
+[^1]: IPCC, 2023: Summary for Policymakers. Climate Change 2023: Synthesis Report.Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland, pp. 1-34.
+[^2]: OEC. Mar. 2024. “Rice in Philippines.” The Observatory of Economic Complexity.
+[^3]: Nesbitt-Ahmed, Zahrah. 2023. “How Gender-responsive Age-sensitive Social Protection is Related to the Climate Crisis”. UNICEF.
+[^4]: Jordan, J.C., Abhilashi, R. and Shaheen, A. 2021. Gender sensitive social protection in the face of climate risk: A study in Uttar Pradesh, Rajasthan, and Madhya Pradesh, India. IIED Working Paper. International Institute for Environment and Development. 
+[^5]: UN Climate Change News.10 June 2022. “New Report: Why Climate Change Impacts Women Differently Than Men.” United Nations Climate Change, UNFCCC.
+[^6]: UN Women. 2022. “Explainer: How Gender Inequality and Climate Change Are Interconnected.” UN Women.
+[^7]: Osman-Elasha, Balgis. 2009. “Women...in the Shadow of Climate Change.” United Nations Chronicle, United Nations.
 
