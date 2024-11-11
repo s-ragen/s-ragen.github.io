@@ -4,10 +4,10 @@ title:  "Climate Change: A Symptom of Anti-People Governance"
 date:   2024-11-10 23:00 
 categories: Climate 
 ---
-![Climate Painting](/assets/images/)
+![Climate Painting](/assets/images/warming_painting.png)
 *.*
 
-![Climate Timeline](/assets/images/)
+![Climate Timeline](/assets/images/warming_timeline.png)
 *.*
 
 Industrial processes using fossil fuel combustion as energy sources have increased the concentration of atmospheric greenhouse gasses, resulting in an increase in global average surface temperature by about 1.2°C over the 1850-1900 period[^1]. The Intergovernmental Panel on Climate Change (IPCC), the United Nations body for assessing the science related to climate change, asserts that climate change is unequivocally caused by human activity, principally through the emissions of greenhouse gasses. Global governance interventions are falling far short of what is needed to address the disproportionate impacts of climate change, particularly when considering that anti-people governance is causing climate change. 
